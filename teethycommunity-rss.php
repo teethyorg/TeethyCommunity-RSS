@@ -4,8 +4,6 @@
  * Plugin URI: https://teethy.org
  * Description: RSS feed for FluentCommunity posts with correct slugs, space filtering, and Facebook/X-friendly formatting.
  * Version: 1.4
- * Author: Teethy
- * Version: 1.1
  * Author: teethy
  * Author URI: https://teethy.org
  * License: GPL v2 or later
